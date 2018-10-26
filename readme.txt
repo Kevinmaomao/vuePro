@@ -10,4 +10,4 @@ hehehehe
 /////////
 hello world
 777git 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
